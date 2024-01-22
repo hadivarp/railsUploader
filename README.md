@@ -1,24 +1,7 @@
-# README
+# Project First Commit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This marks the first commit of the project. I've decided to consolidate various file upload functionalities, supporting different types such as XLSX, CSV, images, and more. I'm utilizing different gems to achieve this.
 
-Things you may want to cover:
+In this commit, I've started implementing the file upload functionality for XLSX files. However, it still requires more time to complete this task. It's worth mentioning that this is my first time implementing this kind of task, so there might be a learning curve involved.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Looking forward to completing the implementation and enhancing the file upload capabilities in the project.
