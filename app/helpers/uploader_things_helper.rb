@@ -1,0 +1,2 @@
+module UploaderThingsHelper
+end
